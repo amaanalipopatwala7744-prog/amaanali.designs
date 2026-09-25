@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 96" role="img" aria-labelledby="title desc">
+  <title id="title">Amaanali Designs</title>
+  <desc id="desc">AD monogram with Amaanali Designs wordmark</desc>
+  <g fill="none" stroke="#B8893E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 72 39 17l27 55"/>
+    <path d="M27 52h24"/>
+    <path d="M52 17h18c22 0 38 12 38 29s-16 29-38 29H52"/>
+    <path d="M8 57c17-12 42-15 73-11 13 2 25 5 35 9" stroke-width="3"/>
+  </g>
+  <circle cx="77" cy="32" r="3.2" fill="#B8893E"/>
+  <text x="132" y="48" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="4">AMAANALI</text>
+  <text x="134" y="75" fill="#B8893E" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="5">DESIGNS</text>
+</svg>
