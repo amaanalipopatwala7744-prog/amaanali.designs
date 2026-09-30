@@ -1,0 +1,15 @@
+{
+  "name": "amaanali-uiux-portfolio",
+  "version": "1.0.0",
+  "description": "Amaanali Popatwala UI/UX Portfolio",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": ["portfolio", "ui", "ux", "design"],
+  "author": "Amaanali Popatwala",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^1.0.0"
+  }
+}
